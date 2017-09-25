@@ -1,0 +1,42 @@
+= README
+
+      _ \    \     __|  |  /
+        /   _ \  \__ \  . <
+     _|_\ _/  _\ ____/ _|\_\
+
+
+Welcome to the Rails App Starter Kit!
+
+This is a starter project for creating applications using the Postgres, Rails
+and Angular stack, *on* *steroids*.
+
+It has the following, and *much* *more*, built in:
+* Comprehensive Angular integration
+* A number of useful dev tools, DSLs and libraries for productive development
+* Authentication and authorization
+* User upload management and attachment
+* Full featured admin console for app admins
+* *Multi-tenancy!* (check out the multi-tenant branch)
+* Ready to deploy to Heroku
+
+For a full, list of features, see
+here[https://github.com/svkanoria/rails-app-starter-kit/wiki#complete-wiring-and-feature-list].
+
+== Demo
+
+http://rails-app-starter-kit.herokuapp.com
+
+Please treat any data (posts, users etc.) as transient, since these may be
+cleaned up from time to time.
+
+The app's admin console can be accessed at:
+
+http://rails-app-starter-kit.herokuapp.com/admin
+
+To access the admin console, sign in with the following credentials:
+* Email: admin@rails-app-starter-kit.com
+* Password: admin123
+
+== Everything Else
+
+See the wiki[https://github.com/svkanoria/rails-app-starter-kit/wiki].
